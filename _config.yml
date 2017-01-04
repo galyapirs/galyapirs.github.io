@@ -1,0 +1,30 @@
+title: "Tips & Tricks"
+description: >
+  Самая суть из книг и журналов
+baseurl: ""
+url: "http://tipsandtricks.ru" # the base hostname & protocol for your site, e.g. http://example.com
+copyright: "Tips & Tricks"
+markdown: kramdown
+theme: minima
+google_analytics: "UA-89830220-1"
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock
+locale:
+  months:
+    - января
+    - февраля
+    - марта
+    - апреля
+    - мая
+    - июня
+    - июля
+    - августа
+    - сентября
+    - октября
+    - ноября
+    - декабря
