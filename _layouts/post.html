@@ -13,6 +13,10 @@ layout: default
   </header>
 
   <div class="post-content" itemprop="articleBody">
+    <p>{{ page.excerpt | escape }}</p>
+    <hr />
+    <h3>{{ page.bibliographic_data | escape }}</h3>
+    <img src="{{ page.cover }}" alt="{{ page.bibliographic_data | escape }}" class="post-book-cover" />
     {{ content }}
   </div>
 

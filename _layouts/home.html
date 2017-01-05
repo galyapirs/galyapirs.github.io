@@ -20,6 +20,14 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
+
+        <a href="{{ post.url | relative_url }}">
+          <img src="{{ post.cover }}" alt="{{ post.bibliographic_data | escape }}" class="post-book-cover" />
+        </a>
+
+        <p>{{ post.excerpt | escape }}</p>
+
+        <a href="{{ post.url | relative_url }}">Цитаты из книги</a>
       </li>
     {% endfor %}
   </ul>

@@ -65,3 +65,16 @@ hr {
     border-top: 1px solid $grey-color-light;
     margin: 1em 0;
 }
+
+.post-book-cover {
+    float: right;
+    max-width: 25%;
+    margin: 0 0 1em 1em;
+}
+
+.site-sub-title {
+    display: inline-block;
+    margin: 0 0 0 1em;
+    line-height: 56px;
+    color: $grey-color;
+}

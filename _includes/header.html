@@ -3,6 +3,7 @@
   <div class="wrapper">
 
     <a class="site-title" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
+    <small class="site-sub-title">{{ site.subtitle | escape }}</small>
 
     <nav class="site-nav-simple">
       {% for my_page in site.pages %}
