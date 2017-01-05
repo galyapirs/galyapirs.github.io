@@ -44,3 +44,24 @@ blockquote {
     margin-bottom: 0;
   }
 }
+
+.site-nav-simple {
+  float: right;
+  line-height: 56px;
+
+  .page-link {
+    color: $text-color;
+    line-height: $base-line-height;
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: 20px;
+    }
+  }
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid $grey-color-light;
+    margin: 1em 0;
+}
