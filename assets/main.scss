@@ -78,3 +78,13 @@ hr {
     line-height: 56px;
     color: $grey-color;
 }
+
+.post-list {
+    .post-book-cover {
+        max-width: 20%;
+    }
+
+    > li {
+        clear: both;
+    }
+}
