@@ -16,7 +16,9 @@ layout: default
     <p>{{ page.excerpt | escape }}</p>
     <hr />
     <h3>{{ page.bibliographic_data | escape }}</h3>
-    <img src="{{ page.cover }}" alt="{{ page.bibliographic_data | escape }}" class="post-book-cover" />
+    {% if page.cover != empty %}
+      <img src="{{ page.cover }}" alt="{{ page.bibliographic_data | escape }}" class="post-book-cover" />
+    {% endif %}
     {{ content }}
   </div>
 
