@@ -1,10 +1,10 @@
-title: "Tips & Tricks"
+title: "Отзывы, цитаты, конспекты хороших книг"
 subtitle: "Самая суть из книг и журналов"
 description: >
-  Самая суть из книг и журналов. Отзывы, обзоры хороших книг по бизнесу, психологии, философии.
+  Самая суть из книг и журналов. Отзывы, цитаты, конспекты хороших книг по бизнесу, психологии, философии.
 baseurl: ""
 url: "http://tipsandtricks.ru" # the base hostname & protocol for your site, e.g. http://example.com
-copyright: "Tips & Tricks. Отзывы, цитаты, обзоры хороших книг"
+copyright: "Tips & Tricks. Отзывы, цитаты, конспекты хороших книг"
 markdown: kramdown
 theme: minima
 google_analytics: "UA-89830220-1"
