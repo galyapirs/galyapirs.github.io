@@ -1,5 +1,6 @@
 ---
 layout: post
+book_author: "Смолл М."
 title:  "Как делать деньги"
 date:   2017-01-08 13:27:46 +0300
 bibliographic_data: "Смолл М. «Как делать деньги»"

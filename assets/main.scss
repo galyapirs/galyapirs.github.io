@@ -66,6 +66,21 @@ hr {
     margin: 1em 0;
 }
 
+.post-list h2 {
+    margin: 0.75rem 0;
+    line-height: 1.25;
+}
+
+.post-book-author {
+    color: $grey-color;
+    font-size: 0.7em;
+}
+
+.post-list .post-link {
+    display: inline;
+}
+
+
 .post-book-cover {
     float: right;
     max-width: 25%;

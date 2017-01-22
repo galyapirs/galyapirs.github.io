@@ -1,5 +1,6 @@
 ---
 layout: post
+book_author: ""
 title:  "Воспоминания о Ландау"
 date:   2017-01-09 9:27:46 +0300
 bibliographic_data: "«Воспоминания о Ландау». М.: Наука, 1988"
