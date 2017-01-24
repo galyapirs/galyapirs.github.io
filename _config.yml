@@ -4,7 +4,7 @@ site_subtitle: "Самая суть из книг и журналов"
 description: >
   Самая суть из книг и журналов. Отзывы, цитаты, конспекты хороших книг по бизнесу, психологии, философии.
 baseurl: ""
-url: "http://tipsandtricks.ru" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tipsandtricks.ru" # the base hostname & protocol for your site, e.g. http://example.com
 copyright: "Tips & Tricks. Отзывы, цитаты, конспекты хороших книг"
 markdown: kramdown
 theme: minima
