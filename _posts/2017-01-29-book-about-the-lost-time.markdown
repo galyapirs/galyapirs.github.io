@@ -6,7 +6,7 @@ book_author: "Вандеркам Л."
 bibliographic_data: "Лора Вандеркам. «Книга о потерянном времени: У вас больше возможностей, чем вы делаете». /Перевод с англ. – М.: Альпина Паблишер, 2015 г. – 338 с."
 excerpt: "168 часов - это много или мало? Это целая неделя! Вы знаете, что вы можете сделать за неделю? Нет? Лора Вандеркам поможет вам узнать это."
 cover: "/assets/covers/book-about-the-lost-time.jpg"
-featured_image: "/assets/featured/numbers-time-watch-white.jpg"
+image: "/assets/featured/numbers-time-watch-white.jpg"
 ---
 
 Из аннотации книги:

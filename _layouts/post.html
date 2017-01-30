@@ -12,8 +12,8 @@ layout: default
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ day }} {{ month }}, {{ year }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
   </header>
 
-  {% if page.featured_image != empty %}
-    <img src="{{ page.featured_image }}" class="featured-image" />
+  {% if page.image != empty %}
+    <img src="{{ page.image }}" class="post-image" />
   {% endif %}
 
   <div class="post-content" itemprop="articleBody">
