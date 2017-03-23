@@ -5,7 +5,7 @@ date:   2017-03-14 00:00:00 +0000
 book_author: "Докинз Ричард"
 bibliographic_data: "Докинз Ричард. «Эгоистичный ген». /Перевод с англ. Н. Фоминой/ М.: АСТ:CORPUS – 2013 г., 513 с."
 excerpt: ""
-cover: ""
+cover: "https://img-fotki.yandex.ru/get/60881/457355488.0/0_1870d3_e4719f64_orig.jpg"
 ---
 
 Из аннотации книги
