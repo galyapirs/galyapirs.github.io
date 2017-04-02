@@ -6,6 +6,7 @@ book_author: "Быковская А."
 bibliographic_data: "Быковская А. «Бизнес своими руками: Как превратить хобби в источник дохода». / Ада Быковская. - 2-е изд. — М.: Альпина Паблишер, 2014. - 290 с."
 excerpt: "Эта книга для тех, кто хочет заниматься творчеством и зарабатывать."
 cover: "https://img-fotki.yandex.ru/get/9092/457355488.0/0_181c76_7ace7eee_orig.jpg"
+image: "https://images.pexels.com/photos/320577/pexels-photo-320577.jpeg?w=940&h=650&auto=compress&cs=tinysrgb"
 ---
 
 Из аннотации книги:
