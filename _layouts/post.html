@@ -1,32 +1,75 @@
----
-layout: default
----
 {% assign m = page.date | date: "%-m" | minus: 1 %}
 {% assign day = page.date | date: "%-d" %}
 {% assign month = site.locale.months[m] %}
 {% assign year = page.date | date: "%Y" %}
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ day }} {{ month }}, {{ year }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
+  {% include head.html %}
 
-  {% if page.image != empty %}
-    <img src="{{ page.image }}" class="post-image" />
-  {% endif %}
+  <body>
 
-  <div class="post-content" itemprop="articleBody">
-    <p>{{ page.excerpt | escape }}</p>
-    <hr />
-    <h3>{{ page.bibliographic_data | escape }}</h3>
-    {% if page.cover != empty %}
-      <img src="{{ page.cover }}" alt="{{ page.bibliographic_data | escape }}" class="post-book-cover" />
-    {% endif %}
-    {{ content }}
-  </div>
+    {% include header.html %}
 
-  {% if site.disqus.shortname %}
-    {% include disqus_comments.html %}
-  {% endif %}
-</article>
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+          <header class="post-header">
+            <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+            <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ day }} {{ month }}, {{ year }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+          </header>
+
+          {% if page.image != empty %}
+            <img src="{{ page.image }}" class="post-image" />
+          {% endif %}
+
+          <div class="post-content" itemprop="articleBody">
+            <p>{{ page.excerpt | escape }}</p>
+            <hr />
+            <h3>{{ page.bibliographic_data | escape }}</h3>
+            {% if page.cover != empty %}
+              <img src="{{ page.cover }}" alt="{{ page.bibliographic_data | escape }}" class="post-book-cover" />
+            {% endif %}
+            {{ content }}
+          </div>
+        </article>
+
+      </div>
+    </main>
+
+    <div class="related-posts">
+      <div class="wrapper">
+        <h2>Читайте также:</h2>
+
+        <ul class="related-post-list">
+          {% for post in site.related_posts limit: 3 %}
+            <li>
+              <h3>
+                <a class="related-post-link" href="{{ post.url | relative_url }}">
+                  {% if post.image != empty %}
+                    <span class="related-post-image" style="background-image: url('{{ post.image }}')">
+                    </span>
+                  {% endif %}
+                  <span class="related-post-body">
+                    <span class="related-post-title">
+                      {{ post.title | escape }}
+                    </span>
+                    <span class="post-book-author">
+                      {{ post.book_author }}
+                    </span>
+                  </span>
+                </a>
+              </h3>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
