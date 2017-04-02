@@ -6,6 +6,7 @@ book_author: "Йог Рамачарака"
 bibliographic_data: "Йог Рамачарака. «Жизнь Иисуса Христа в оккультном освещении. Мистическое христианство». М.: Издательство Ассоциации Духовного Единения «Золотой век», 1993 г."
 excerpt: "О чём книга? Об Иисусе Христе, о духовном одиночестве, о «соли», об Учителе и учениках."
 cover: ""
+image: "https://images.pexels.com/photos/33591/church-window-baptism-sacrament-glass-window.jpg?w=940&h=650&auto=compress&cs=tinysrgb"
 ---
 
 стр. 44 
