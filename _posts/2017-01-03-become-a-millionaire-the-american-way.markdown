@@ -6,6 +6,7 @@ date:   2017-01-03 14:20:56 +0300
 excerpt: "В книге американского миллионера кратко суммируется то, что можно найти в различных учебниках по ведению собственного бизнеса."
 bibliographic_data: "Харри Роузен. «Стань миллионером. Американский путь./М.: Экономика,1992 г. -95 с."
 cover: "https://ozon-st.cdn.ngenix.net/multimedia/1011606416.jpg"
+image: "https://images.pexels.com/photos/47344/dollar-currency-money-us-dollar-47344.jpeg?w=940&h=650&auto=compress&cs=tinysrgb"
 ---
 
 Стр. 9 
