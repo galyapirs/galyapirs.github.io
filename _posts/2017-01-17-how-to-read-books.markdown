@@ -6,7 +6,7 @@ date: 2017-01-17 13:27:46 +0300
 bibliographic_data: "Поварнин С. И. «Как читать книги». - издание 2-ое - М.: Издательство «Книга», 1974 г. - 80 с."
 excerpt: "Как читать книги с максимальной пользой? Книга 1974 года, однако, рекомендации, данные в этой книге, не утратили актуальности и в наши дни."
 cover: "https://ozon-st.cdn.ngenix.net/multimedia/1010776421.jpg"
-image: "https://images.pexels.com/photos/256548/pexels-photo-256548.jpeg?w=940&h=650&auto=compress&cs=tinysrgb"
+image: "https://images.pexels.com/photos/267684/pexels-photo-267684.jpeg?w=940&h=650&auto=compress&cs=tinysrgb"
 ---
 
 #### Заповеди читателя
