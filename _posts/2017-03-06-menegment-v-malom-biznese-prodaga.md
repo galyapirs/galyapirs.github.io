@@ -6,6 +6,7 @@ book_author: "Под ред. Питалеева В.А. и Лилеева З.А."
 bibliographic_data: "«Менеджмент в малом бизнесе. Продажа.» /Перевод Давыдов А.Ю., Лебедев С.Е. Под ред. Питалеева В.А. и Лилеева З.А. М.: ИКК «ДеКА», 1994 г."
 excerpt: ""
 cover: ""
+image: "https://images.pexels.com/photos/159991/pexels-photo-159991.jpeg?w=940&h=650&auto=compress&cs=tinysrgb"
 ---
 
 стр. 7
