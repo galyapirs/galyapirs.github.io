@@ -22,11 +22,11 @@
           </header>
 
           {% if page.image != empty %}
-            <img src="{{ page.image }}" class="post-image" />
+            <div class="post-image" style="background-image: url('{{ page.image }}');"></div>
           {% endif %}
 
           <div class="post-content" itemprop="articleBody">
-            <p>{{ page.excerpt | escape }}</p>
+            <p class="post-preface">{{ page.excerpt | escape }}</p>
             <hr />
             <h3>{{ page.bibliographic_data | escape }}</h3>
             {% if page.cover != empty %}

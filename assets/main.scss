@@ -87,6 +87,15 @@ hr {
     margin: 0 0 1em 1em;
 }
 
+.post-image {
+    display: block;
+    height: 20rem;
+    background-size: cover;
+    background-position: 50% 50%;
+    margin: 0 0 30px;
+    border-radius: 0.15rem;
+}
+
 .site-sub-title {
     display: inline-block;
     margin: 0 0 0 1em;
@@ -159,5 +168,19 @@ hr {
         letter-spacing: -0.01em;
         color: #333;
     }
+}
 
+.post-preface {
+    font-size: 1.25em;
+}
+
+blockquote {
+    font-family: 'Lora', Georgia,Cambria,"Times New Roman",Times,serif;
+    font-weight: 400;
+    line-height: 1.48;
+    color: rgba(0, 0, 0, .8);
+    border: none;
+    padding: 0;
+    padding-left: 50px;
+    text-align: left;
 }
