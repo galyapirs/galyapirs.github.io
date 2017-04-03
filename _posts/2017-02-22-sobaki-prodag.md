@@ -6,6 +6,7 @@ book_author: "Сингер Блейр"
 bibliographic_data: "Сингер Блейр. «Собаки продаж» /Перевод с англ. Л.А. Бабук; Худ. Обложка М.В. Драко – Минск: ООО «Попурри», 2003 г. – 352 с. Серия «Успех!»"
 excerpt: ""
 cover: ""
+image: "https://images.pexels.com/photos/95425/pexels-photo-95425.jpeg?w=940&h=650&auto=compress&cs=tinysrgb"
 ---
 
 стр. 24
