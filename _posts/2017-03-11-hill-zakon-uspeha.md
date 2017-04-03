@@ -6,6 +6,7 @@ book_author: "Наполеон Хилл"
 bibliographic_data: "Наполеон Хилл. «Закон успеха. Думай и богатей». / Перевод с англ. А.А. Грузберга. Екатеринбург: Издательство «Литур», 2000 г. – 704 с."
 excerpt: ""
 cover: "https://img-fotki.yandex.ru/get/198860/457355488.0/0_1870db_8a5a6b70_orig.jpg"
+image: "https://images.pexels.com/photos/259251/pexels-photo-259251.jpeg?w=940&h=650&auto=compress&cs=tinysrgb"
 ---
 
 Из аннотации книги:
