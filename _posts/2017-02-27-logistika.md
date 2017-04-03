@@ -6,6 +6,7 @@ book_author: "Под ред. Б.А. Аникина"
 bibliographic_data: "«Логистика: Учебник». /Под редакцией Б.А. Аникина: 2-е изд., перераб. и доп. М.: ИНФРА-М, 2001 г. – 352 с. (Серия «Высшее образование»)."
 excerpt: ""
 cover: ""
+image: "https://images.pexels.com/photos/122164/pexels-photo-122164.jpeg?w=940&h=650&auto=compress&cs=tinysrgb"
 ---
 
 стр. 7
