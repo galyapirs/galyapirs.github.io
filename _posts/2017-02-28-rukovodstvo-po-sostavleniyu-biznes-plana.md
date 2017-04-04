@@ -6,7 +6,7 @@ book_author: "Девид Г. Бенгз"
 bibliographic_data: "Девид Г. Бенгз «Руководство по составлению бизнес-плана». Серия «Маркетинг и менеджмент в России и за рубежом». /Перевод с англ. Под ред. Л.М. Макаревича.- М.: Издательство «Финпресс», 1998 г. – 256 с."
 excerpt: ""
 cover: ""
-image: ""
+image: "https://images.pexels.com/photos/58457/pexels-photo-58457.jpeg?w=940&h=650&auto=compress&cs=tinysrgb"
 ---
 
 стр. 21
