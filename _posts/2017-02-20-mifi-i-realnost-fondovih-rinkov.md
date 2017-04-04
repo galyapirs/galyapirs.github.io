@@ -6,7 +6,7 @@ book_author: "Гормико А."
 bibliographic_data: "Гормико А. «Мифы и реальность фондовых рынков». Ж. «Рынок ценных бумаг», №1, 2006 г., стр.39; №2, 2006 г., стр.44"
 excerpt: "Заметки трейдера"
 cover: ""
-image: ""
+image: "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?w=940&h=650&auto=compress&cs=tinysrgb"
 ---
 
 стр. 39
