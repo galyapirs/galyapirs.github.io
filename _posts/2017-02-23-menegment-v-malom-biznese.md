@@ -6,7 +6,7 @@ book_author: "Перевод Креницкий И.Б."
 bibliographic_data: "«Менеджмент в малом бизнесе. Как принимать финансовые решения». /Перевод Креницкий И.Б. - М: «The Small Business Programme Ltd», Ассоциации «Форум-90», ИКК «ДеКА», Ноу-Хау Центр"
 excerpt: ""
 cover: ""
-image: ""
+image: "https://images.pexels.com/photos/221174/pexels-photo-221174.png?w=940&h=650&auto=compress&cs=tinysrgb"
 ---
 
 стр. 8
