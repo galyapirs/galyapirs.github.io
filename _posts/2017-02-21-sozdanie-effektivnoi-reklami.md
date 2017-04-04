@@ -6,7 +6,7 @@ book_author: "Роберт Акша"
 bibliographic_data: "Роберт Акша. «Создание эффективной рекламы». М.: ООО «Вершина», 2003 г. – 272 с."
 excerpt: "Что делает рекламу Эффективной? На этот вопрос отвечает данная книга."
 cover: "https://img-fotki.yandex.ru/get/9810/457355488.0/0_1870dd_249a30f_orig.jpg"
-image: ""
+image: "https://images.pexels.com/photos/34639/pexels-photo.jpg?w=940&h=650&auto=compress&cs=tinysrgb"
 ---
 
 Из аннотации книги:
