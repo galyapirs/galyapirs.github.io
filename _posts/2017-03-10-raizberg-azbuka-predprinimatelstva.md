@@ -6,7 +6,7 @@ book_author: "Райзберг Б.А."
 bibliographic_data: "Райзберг Б.А. «Азбука предпринимательства». М.: МИП «Дума», 1991 г. – 61 с."
 excerpt: ""
 cover: ""
-image: ""
+image: "https://images.pexels.com/photos/296878/pexels-photo-296878.jpeg?w=940&h=650&auto=compress&cs=tinysrgb"
 ---
 
 стр. 12
