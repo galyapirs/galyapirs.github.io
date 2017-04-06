@@ -6,7 +6,7 @@ book_author: "Николас Коул"
 bibliographic_data: "Николас Коул. «Почему правильный ответ на неправильный вопрос – всё равно неправильный ответ». Ж. «Деловое совершенство» (BusinessExcellence), № 1, 2017 г., стр. 50-51"
 excerpt: "Напоминалка для бизнесменов."
 cover: ""
-image: ""
+image: "https://images.pexels.com/photos/341013/pexels-photo-341013.jpeg?w=940&h=650&auto=compress&cs=tinysrgb"
 ---
 
 стр. 51
