@@ -6,7 +6,7 @@ book_author: "Андрей Алёшин, Павел Пашков"
 bibliographic_data: "Андрей Алёшин, Павел Пашков. «Анализ технологического процесса «как есть», и как провести его правильно». Ж. «Деловое совершенство» (BusinessExcellence), № 1, 2017 г., стр. 62-67"
 excerpt: "Напоминалка для бизнесменов."
 cover: ""
-image: ""
+image: "https://images.pexels.com/photos/28094/pexels-photo-28094.jpg?w=940&h=650&auto=compress&cs=tinysrgb"
 ---
 
 стр. 63
