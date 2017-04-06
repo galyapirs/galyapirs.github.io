@@ -6,7 +6,7 @@ book_author: "Макаревич Л.М."
 bibliographic_data: "Макаревич Л.М. «Учитесь делать деньги». М.: Издательство «Дограф», 1999 г. – 440 с."
 excerpt: "115 профессиональных советов от Льва Михайловича Макаревича"
 cover: "https://img-fotki.yandex.ru/get/98813/457355488.0/0_1870d8_5aabc340_orig.jpg"
-image: ""
+image: "https://images.pexels.com/photos/164474/pexels-photo-164474.jpeg?w=940&h=650&auto=compress&cs=tinysrgb"
 ---
 
 Из аннотации книги:
