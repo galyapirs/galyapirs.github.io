@@ -6,7 +6,7 @@ book_author: "Ксения Нойман"
 bibliographic_data: "Ксения Нойман. ««Цифра», изменившая мир». Ж. «Деловое совершенство» (Business Excellence), № 1, 2017 г., стр. 46-49"
 excerpt: "Правила работы с «большими данными» от Андреаса Вайгенда"
 cover: ""
-image: ""
+image: "https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg?w=940&h=650&auto=compress&cs=tinysrgb"
 ---
 
 стр. 47
