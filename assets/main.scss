@@ -124,7 +124,7 @@ hr {
     padding: 1rem;
 }
 
-.related-post-list {
+.card-post-list {
     list-style: none;
     padding: 0;
     margin: 0 -0.5rem 0;
@@ -140,7 +140,7 @@ hr {
         box-shadow: 1px 1px 5px rgba(180, 180, 180, 0.1);
     }
 
-    .related-post-link {
+    .card-post-link {
         display: block;
 
         &:hover {
@@ -148,12 +148,12 @@ hr {
         }
     }
 
-    .related-post-body {
+    .card-post-body {
         padding: 0 0.5rem;
         display: block;
     }
 
-    .related-post-image {
+    .card-post-image {
         display: block;
         height: 7rem;
         background-size: cover;
@@ -161,7 +161,7 @@ hr {
         border-radius: 0.25rem 0.25rem 0 0;
     }
 
-    .related-post-title {
+    .card-post-title {
         display: block;
         font-size: 1.25em;
         line-height: 1.25em;
@@ -169,6 +169,53 @@ hr {
         color: #333;
     }
 }
+
+.post-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 -1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    li {
+        margin: 0 1rem 3rem;
+        width: 33%;
+        flex: 1 1 auto;
+    }
+
+    li:nth-child(3n+1) {
+        width: 100%;
+    }
+
+    .post-link {
+        display: block;
+
+        &:hover {
+            text-decoration: none;
+        }
+    }
+
+    .post-body {
+        display: block;
+    }
+
+    .post-image {
+        display: block;
+        height: 15rem;
+        background-size: cover;
+        margin: 0 0 1rem;
+    }
+
+    .post-title {
+        display: block;
+        font-size: 1.25em;
+        line-height: 1.25em;
+        letter-spacing: -0.01em;
+        color: #333;
+    }
+}
+
 
 .post-preface {
     font-size: 1.25em;

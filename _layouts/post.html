@@ -43,18 +43,18 @@
       <div class="wrapper">
         <h2>Читайте также:</h2>
 
-        <ul class="related-post-list">
+        <ul class="card-post-list">
           {% assign related_posts = site.related_posts | sample:3 %}
           {% for post in related_posts %}
             <li>
               <h3>
-                <a class="related-post-link" href="{{ post.url | relative_url }}">
+                <a class="card-post-link" href="{{ post.url | relative_url }}">
                   {% if post.image != empty %}
-                    <span class="related-post-image" style="background-image: url('{{ post.image }}')">
+                    <span class="card-post-image" style="background-image: url('{{ post.image }}')">
                     </span>
                   {% endif %}
-                  <span class="related-post-body">
-                    <span class="related-post-title">
+                  <span class="card-post-body">
+                    <span class="card-post-title">
                       {{ post.title | escape }}
                     </span>
                     <span class="post-book-author">
