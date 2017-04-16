@@ -6,7 +6,7 @@ book_author: "Коваленко А."
 bibliographic_data: "Коваленко А. «Не потеря войска, а потеря надежды» - интервью с Сергеем Хестановым. Журнал «Эксперт-Урал», №41-42, 2016 г., стр.21-23"
 excerpt: "Записки трейдера."
 cover: ""
-image: ""
+image: "https://images.pexels.com/photos/47047/gold-ingots-golden-treasure-47047.jpeg?w=940&h=650&auto=compress&cs=tinysrgb"
 ---
 
 стр. 23
