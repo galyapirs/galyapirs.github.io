@@ -5,7 +5,7 @@ date:   2017-02-09 13:27:46 +0300
 bibliographic_data: "«Банковские вклады, обмен валюты и безналичные валютные операции». Библиотечка «Российской газеты». Выпуск № 20, 2016 г."
 excerpt: "Записки трейдера."
 cover: ""
-image: ""
+image: "https://images.pexels.com/photos/210599/pexels-photo-210599.jpeg?w=940&h=650&auto=compress&cs=tinysrgb"
 ---
 
 стр. 45
