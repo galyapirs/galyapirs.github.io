@@ -6,7 +6,7 @@ book_author: "Обижаева А."
 bibliographic_data: "Обижаева А. «Кризис рубля в декабре 2014 года». Журнал «Вопросы экономики», №5, 2016 г., стр. 66-86"
 excerpt: "Записки трейдера."
 cover: ""
-image: ""
+image: "https://images.pexels.com/photos/248940/pexels-photo-248940.jpeg?w=940&h=650&auto=compress&cs=tinysrgb"
 ---
 
 стр. 70
