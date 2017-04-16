@@ -6,7 +6,7 @@ book_author: "Хохрин Андрей"
 bibliographic_data: "Хохрин Андрей. «Семь критериев правильного инвестирования». Журнал «Рынок ценных бумаг», №7, 2016 г., стр.65-67"
 excerpt: "Записки трейдера."
 cover: ""
-image: ""
+image: "https://images.pexels.com/photos/141496/pexels-photo-141496.jpeg?w=940&h=650&auto=compress&cs=tinysrgb"
 ---
 
 стр. 65-67
