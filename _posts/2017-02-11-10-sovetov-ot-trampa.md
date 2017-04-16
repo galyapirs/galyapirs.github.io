@@ -5,7 +5,7 @@ date:   2017-02-11 13:27:46 +0300
 bibliographic_data: "«10 советов от Дональда Трампа». Ж. «Деловое совершенство» (Business Excellence), № 1, 2017 г."
 excerpt: "У нас, конечно, уже не «Страна Советов», но почему бы не послушать дельные советы?"
 cover: ""
-image: ""
+image: https://images.pexels.com/photos/2261/food-man-person-eating.jpg?w=940&h=650&auto=compress&cs=tinysrgb""
 ---
 
 стр. 45
